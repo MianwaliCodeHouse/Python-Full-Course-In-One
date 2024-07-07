@@ -1,0 +1,35 @@
+
+Python Programming Topics:
+1-->  variable
+2-->  print()
+3-->  input()
+4-->  eval()
+5-->  if
+6-->  if-else
+7-->  if-else-if
+8-->  while
+9-->  for
+10->  functions
+11->  list
+12->  tuple
+13->  list vs tuple
+14->  dictionary
+15->  oop
+16->  classes
+17->  access modifiers
+18->  accessor and mutator
+19->  inheritance
+20->  polymorphism
+
+
+
+how to install pakages in python and also use it
+
+
+what is vitual environment and how to intall , create , activate and use it
+
+
+
+
+I am learning Python
+write syntax and short description of following topics:
